@@ -1,0 +1,5 @@
+Neste aplicativo o usuário escreve um nome e quando ele clica no botão salvar, aparece um texto escrito "Olá, 'nomeDigitado'"
+Neste projeto usa-se o SharedPreferences() que lê e salva pequenas informações do sistema, como por exemplo,
+o nome digitado.
+O Shared Preferences nos permite armazenar valores primitivos, como por exemplo, booleans, floats, ints, longs e 
+Strings a partir de uma chave
